@@ -1,0 +1,41 @@
+/* body {
+  background-color: hsl(230, 50%, 75%);
+} */
+
+/* h2 {
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(122, 138, 216);
+} */
+
+/* div { text-align: center;} */
+
+/* @media only screen and (max-width: 375px){ */
+/* h2 {
+    padding: 0;
+    width: 100%;
+    border:1px solid black;
+  } */
+
+/* #gordy {
+    width: 100%;
+    vertical-align: middle;
+    border:1px solid black;
+  } */
+
+/* p {
+    line-height: 1.6;
+    max-width: 100px;
+  } */
+
+/* .sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: hsl(219, 94%, 12%);
+  overflow-x: hidden;
+  padding-top: 20px;
+} */
